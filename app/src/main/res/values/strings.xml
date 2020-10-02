@@ -2,9 +2,9 @@
     <string name="app_name">Ticket Booking</string>
     <string name="menu_button">menu button</string>
     <string name="cover_image">cover image</string>
-    <string name="movie_title">The Dark Knight</string>
-    <string name="movie_desc">Action/Adventure | 2h 32m</string>
-    <string name="movie_rating">IMDb 9/10</string>
+    <string name="movie_title">Godzilla</string>
+    <string name="movie_desc">Sci-fi/Action | 2h 12m</string>
+    <string name="movie_rating">IMDb 6/10</string>
     <string name="movie_status">In theaters</string>
     <string name="book_button">BOOK TICKETS</string>
     <string name="cast">CAST</string>
